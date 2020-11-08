@@ -1,4 +1,4 @@
-# Snake Capstone Project
+# Snake Game Project
 
 This project is a C++ implementation of the old school Snake game and was inspired by [this](https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl) excellent StackOverflow post and set of responses.
 
